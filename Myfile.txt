@@ -1,6 +1,1 @@
-git rocks!
-
-
-
-This is my first change in file to commit
-                              
+"I did not think it was easy :0"  
