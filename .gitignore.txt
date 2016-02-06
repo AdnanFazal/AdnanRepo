@@ -1,9 +1,7 @@
-git rocks! 
-
 # === This is a sample of .gitignore file ===
-# Ignore excel files
-*.xlsx
+# Ignore excel files 
+abc.xlsx
 # Ignore Word files
-*.doc
+def.doc
 # Ignore Bitmap files
-*.bmp
+ghi.bmp
