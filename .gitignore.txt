@@ -1,7 +1,2 @@
 # === This is a sample of .gitignore file ===
-# Ignore excel files 
-abc.xlsx
-# Ignore Word files
-def.doc
-# Ignore Bitmap files
-ghi.bmp
+*.txt
